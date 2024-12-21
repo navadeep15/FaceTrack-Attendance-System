@@ -41,8 +41,8 @@ pip install face_recognition opencv-python numpy pymongo tkinter pickle
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/navadeep15/FaceTrack-Attendance-System.git
+   cd FaceTrack-Attendance-System
    ```
 
 2. **Prepare student directory**
